@@ -1,0 +1,54 @@
+p {
+    text-align: center;
+    color:rgb(156, 29, 112);
+}
+.color-morado{
+      background-color:  rgb(162, 108, 212);
+    color: rgb(227, 208, 245); 
+}
+td {
+    background-color: rgb(197, 149, 241);
+    background-color: rgb(228, 194, 211);
+    color: black;
+}
+.tablas-lado-a-lado{
+    display: flex;
+    gap: 40;
+    align-items: flex-start;
+}
+th{
+    background-color: rgb(239, 121, 239);
+    color: black;
+}
+.h2{ 
+    text-align: center;
+    color: rgb(233, 163, 226);
+}
+.h1{
+text-align: center;
+background-color: rgb(248, 194, 232);
+color: hwb(309 46% 10%);
+}
+.titulo{
+    text-align: center;
+}
+body{
+   background: linear-gradient(rgb(232, 175, 218))
+}
+
+.buton{
+    font-size: 10px;
+    padding: 10px 20px;
+    background-color: rgb(200, 154, 244);
+    color: rgb(201, 168, 233);
+    font-weight: 600; 
+    border-radius: 75%;
+}
+.boton:hover{
+    background-color: rgb(175, 148, 201);
+    padding: 10px 20px;
+
+}
+.btn-bonito:active{
+    transform: scale(0.95);
+}
