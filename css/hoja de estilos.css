@@ -1,4 +1,4 @@
-p {
+8p {
     text-align: center;
     color:rgb(156, 29, 112);
 }
@@ -43,12 +43,4 @@ body{
     color: rgb(201, 168, 233);
     font-weight: 600; 
     border-radius: 75%;
-}
-.boton:hover{
-    background-color: rgb(175, 148, 201);
-    padding: 10px 20px;
-
-}
-.btn-bonito:active{
-    transform: scale(0.95);
-}
+}
